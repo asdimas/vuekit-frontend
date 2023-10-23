@@ -11,6 +11,11 @@ Document
 Use a better box model (opinionated).
 */
 
+/* @font-face {
+  font-family: myFirstFont;
+  src: url(https://fonts.gstatic.com);
+} */
+
 *,
 ::before,
 ::after {
